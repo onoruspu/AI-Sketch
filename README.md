@@ -29,6 +29,9 @@ The data set contains only 1000 words in both languages which isn't that much co
 ## What next?
 Check Challenges for ways to improve the AI. Next would be to create some kind of code sketching and thinking, maybe even some working demo or similar things. I would do this myself with Python because that is the language I have learned. Also looking for more resources about AIs, generally about Python programming, maybe connecting with other people and asking for help with other things could further this project. But the main obstacle is most likely time, finding the desire and hours for this project. So most of this is just sketching and nothing too real yet, still useful with teaching.
 
+## Demo
+The file demo.py contains some Python code sketching for a possible implementation. The code can be run at the momement but doesn't do anything meaningful.
+
 ## Acknowledgments
 This project and the structure of this README is inspired by [Elements of AI](https://www.elementsofai.com).
 
